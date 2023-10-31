@@ -1,0 +1,14 @@
+img{
+    width: 200px;
+}
+
+.container-card{
+    border: 1px solid #bababa;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: max-content;
+    border-radius: 5px;
+    font-size: 24px;
+}
